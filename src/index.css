@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.inter {
+  font-family: "Inter";
+}
+
+.poppins {
+  font-family: "Poppins";
+}
+
+.titleGreen {
+  color: rgba(76, 175, 79, 1);
+}
+
 /* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
